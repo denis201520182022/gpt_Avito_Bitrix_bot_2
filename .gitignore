@@ -1,0 +1,16 @@
+/__pycache__
+/venv
+bot.log
+report.txt
+.env.local
+.env.prod
+image.png
+test_proxy.py
+README.md
+image.png
+config.py
+check_openai_key.py
+logs/
+temp/
+prompt.txt
+config.py
