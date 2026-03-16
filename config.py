@@ -36,7 +36,7 @@ HUMANIZE_MODE = os.getenv("HUMANIZE_MODE", "true").lower() == "true"
 
 
 # ID конкретного оператора (если нужно переводить на конкретного)
-OPERATOR_ID = ""  # или None для любого доступного
+OPERATOR_ID = "12282"  # или None для любого доступного
 
 PHONE_TRANSFER_DELAY = 1800 #Через сколько переводить на оператора при получении номера телефона
 
