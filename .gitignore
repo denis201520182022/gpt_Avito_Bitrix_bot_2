@@ -6,7 +6,7 @@ report.txt
 .env.prod
 image.png
 test_proxy.py
-README.md
+
 image.png
 
 check_openai_key.py
